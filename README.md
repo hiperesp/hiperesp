@@ -4,10 +4,8 @@ Hi 👋 My name is Gabriel Lopes
 Software Engineer
 --------------------
 
-Mais de 10 anos desenvolvendo com PHP (desde os 10 anos)
-
-Meu maior destaque é em Extração de dados da Web, para automatização de rotinas
-
+Mais de 10 anos desenvolvendo com PHP (desde os 10 anos)\
+Meu maior destaque é em Extração de dados da Web, para automatização de rotinas\
 Conhecimento em Linux, Oracle Cloud Infrastructure (OCI), CI/CD com Dokku - Docker, Cloudflare R2 (AWS S3), Otimização na performance de Sistemas, Criação de sistemas utilizando o conceito de Microsserviços
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
