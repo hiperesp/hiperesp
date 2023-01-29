@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriel Lopes
+Olá 👋 Eu sou Gabriel Lopes
 ==============================
 
 Software Engineer
@@ -112,7 +112,7 @@ Conhecimento em Linux, Oracle Cloud Infrastructure (OCI), CI/CD com Dokku - Dock
 
 #### Hello World 👋:
 <p>
-    <a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer">
+    <a href="https://scratch.mit.edu/users/teteugames/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch">
     </a>
     <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
