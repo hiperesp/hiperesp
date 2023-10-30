@@ -10,7 +10,7 @@ Conhecimento em Linux, Oracle Cloud Infrastructure (OCI), CI/CD com Dokku - Dock
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
 * ✉️ Você pode contatar-me via [gabriel@gabstep.com.br](mailto:gabriel@gabstep.com.br)
-* 🧠 Estou estudando sobre PostgreSQL e Terraform
+* 🧠 Estou estudando sobre diversos assuntos na área da tecnologia
 
 ### Skills  
 
