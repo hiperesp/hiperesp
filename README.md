@@ -4,9 +4,8 @@ Olá 👋 Eu sou Gabriel Lopes
 Software Engineer
 --------------------
 
-Mais de 10 anos desenvolvendo com PHP\
-Meu maior destaque é em Extração de dados da Web, para automatização de rotinas\
-Conhecimento em Linux, Oracle Cloud Infrastructure (OCI), CI/CD com Dokku - Docker, Cloudflare R2 (AWS S3), Otimização na performance de Sistemas, Criação de sistemas utilizando o conceito de Microsserviços
+Mais de 10 anos programando\
+Conhecimento em Linux, Docker, Dokku, etc.
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
 * ✉️ Você pode contatar-me via [gabriel@gabstep.com.br](mailto:gabriel@gabstep.com.br)
@@ -17,13 +16,13 @@ Conhecimento em Linux, Oracle Cloud Infrastructure (OCI), CI/CD com Dokku - Dock
 #### Frontend:
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
     </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=js&logoColor=000000" alt="JavaScript" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
