@@ -16,19 +16,13 @@ Conhecimento em Linux, Docker, Dokku, etc.
 #### Frontend:
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=js&logoColor=000000" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
     </a>
 </p>
 
@@ -43,53 +37,25 @@ Conhecimento em Linux, Docker, Dokku, etc.
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
     </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    </a>
-    <a href="https://deno.land/" target="_blank">
-        <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" alt="Deno" />
-    </a>
 </p>
 
 #### Banco de Dados:
 <p>
-    <a href="https://mariadb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </a>
 </p>
 
-#### Cloud:
+#### Infra:
 <p>
-    <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle" />
-    </a>
     <a href="https://www.dokku.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Dokku-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Dokku" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    </a>
     <a href="https://cloudflare.com/" target="_blank" rel="noreferrere">
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    </a>
-</p>
-
-#### Utilitários:
-<p>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </a>
-    <a href="https://www.insomnia.rest/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
     </a>
 </p>
 
@@ -100,9 +66,6 @@ Conhecimento em Linux, Docker, Dokku, etc.
     </a>
     <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
-    </a>
-    <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
     </a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
