@@ -1,8 +1,9 @@
 Olá 👋 Eu sou Gabriel Lopes
 ==============================
 
-![profile metrics](https://raw.githubusercontent.com/hiperesp/hiperesp/master/github-metrics.svg)
-
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ### Redes Sociais
 <p>
