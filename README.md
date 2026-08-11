@@ -22,9 +22,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor há mais de **10 anos**, começando cedo no mundo de servidores de jogos — onde aprendi na prática a engenharia reversa, arquitetura de sistemas, performance e manutenção de projetos com vida útil longa.
+Sou desenvolvedor há mais de **10 anos**. Comecei cedo mexendo com servidores de jogos, e foi nesse ambiente que aprendi na prática coisas como engenharia reversa, arquitetura de sistemas, performance e manutenção de projetos que continuam funcionando por muitos anos.
 
-Passei pelo **CS50 de Harvard** em 2023, onde solidifiquei fundamentos de ciência da computação, algoritmos e boas práticas. Hoje meu foco é **PHP moderno (8+)**, Docker e arquitetura de aplicações web escaláveis.
+Em 2023, passei pelo **CS50 de Harvard**, que ajudou a consolidar fundamentos de ciência da computação, algoritmos e boas práticas. Hoje trabalho principalmente com **PHP moderno (8+), Docker e aplicações web**.
 
 **No momento estou disponível para novas oportunidades.** Busco ambientes onde eu possa resolver problemas reais, aprender com pessoas melhores que eu e entregar código de qualidade.
 
