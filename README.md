@@ -30,48 +30,49 @@ Em 2023, passei pelo **CS50 de Harvard**, que ajudou a consolidar fundamentos de
 
 ---
 
-## 🛠️ O que uso no dia a dia
+## 🛠️ Tecnologias e ferramentas
 
-| Categoria | Ferramentas |
-|-----------|-------------|
-| **Backend** | PHP 8+, Composer, PDO, Node.js, REST APIs |
-| **Frontend** | JavaScript ES6+, TypeScript, HTML5, CSS3, Twig |
-| **Banco de Dados** | MySQL, MariaDB, Redis |
-| **DevOps & Infra** | Docker, Docker Compose, Dokku, Linux (Ubuntu/Debian), Nginx, Git |
-| **Outros** | SourcePawn (CS:GO/CS:S), Flash (Action Script), Engenharia Reversa básica, Integração contínua |
+| Categoria                 | Tecnologias                                                      |
+| ------------------------- | ---------------------------------------------------------------- |
+| **Backend**               | PHP 8+, Composer, PDO, Node.js, REST APIs                        |
+| **Frontend**              | JavaScript ES6+, TypeScript, HTML5, CSS3, Twig                   |
+| **Banco de Dados**        | MySQL, MariaDB, Redis                                            |
+| **DevOps & Infra**        | Docker, Docker Compose, Dokku, Linux (Ubuntu/Debian), Nginx, Git |
+| **Experiência adicional** | SourcePawn (CS:GO/CS:S), ActionScript, Engenharia Reversa        |
+
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Alguns Projetos
 
 Aqui estão os trabalhos que melhor representam o que eu sei fazer — alguns ativos, outros concluídos e estáveis:
 
-### 🐉 [DragonFable Private Server](https://github.com/hiperesp/DragonFable-Private-Server)
-**⭐ 52 • 🍴 8 • PHP 8 • Docker**
+### 🐉 [DragonFable Private Server](https://github.com/hiperesp/DragonFable-Private-Server) • ⭐ 52 • 🍴 8
+**PHP 8 • Docker**
 > Emulador de servidor privado para DragonFable, compatível com o cliente atual do jogo.
 >
 > Meu maior projeto open source, mantido desde 2022. Inclui arquitetura modular, Docker para ambiente de desenvolvimento, documentação completa (Setup/Config/Dev/Upgrade) e licença MIT.
 >
 > 📌 **Status atual**: Ciclo de desenvolvimento lento — trabalho nele conforme tenho tempo livre entre oportunidades profissionais.
 
-### ⚡ [deploy-app](https://github.com/hiperesp/deploy-app)
-**⭐ 7 • TypeScript • Docker • Dokku**
+### ⚡ [deploy-app](https://github.com/hiperesp/deploy-app) • ⭐ 7
+**TypeScript • Docker • Dokku**
 > Ferramenta que simplifica o gerenciamento e deploy de aplicações no Dokku.
 
-### 💬 [HiperDialog](https://github.com/hiperesp/HiperDialog)
-**⭐ 6 • JavaScript • CSS**
+### 💬 [HiperDialog](https://github.com/hiperesp/HiperDialog) • ⭐ 6
+**JavaScript • CSS**
 > Biblioteca que substitui as funções nativas `alert()`, `confirm()` e `prompt()` do JavaScript por diálogos customizáveis, com múltiplos botões e campos de texto.
 >
 > Uma das primeiras biblioteca JS que publiquei. Código leve, sem dependências, com foco em acessibilidade e facilidade de uso. **Projeto concluído**.
 
-### 🎮 [Habbo v31 Projector](https://github.com/hiperesp/Habbo-v31-Projector)
-**⭐ 3 • Smarty • PHP**
-> Projetor compatível com SSO-Ticket para servidores retrô do Habbo versão v31, do Quackster.
+### 🎮 [Habbo v31 Projector](https://github.com/hiperesp/Habbo-v31-Projector) • ⭐ 3 
+**Lingo • PHP**
+> Projetor compatível com SSO-Ticket para servidores retrô do Habbo versão v31, da Quackster.
 >
-> Demonstra integração com sistemas legados, autenticação e template engines..
+> Demonstra integração com sistemas legados, autenticação e template engines.
 
-### 🎓 [CS50 Final Project: og:preview](https://github.com/hiperesp/CS50-Final-Project)
-**⭐ 4 • PHP**
+### 🎓 [CS50 Final Project: og:preview](https://github.com/hiperesp/CS50-Final-Project) • ⭐ 4
+**PHP**
 > Meu projeto de conclusão do CS50 Harvard — ferramenta para pré-visualização de meta tags Open Graph de links sociais.
 >
 > Aqui eu apliquei tudo o que aprendi durante o curso.
@@ -82,6 +83,7 @@ Aqui estão os trabalhos que melhor representam o que eu sei fazer — alguns at
 
 ---
 
+<!--
 ## 📊 Minhas Estatísticas no GitHub
 
 <div>
@@ -91,7 +93,7 @@ Aqui estão os trabalhos que melhor representam o que eu sei fazer — alguns at
 </div>
 
 ---
-
+-->
 <div align="center">
 
 *"Código é como humor: se você tem que explicar, não é tão bom assim."* 🐘
